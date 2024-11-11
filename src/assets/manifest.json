@@ -1,0 +1,30 @@
+{
+    "name": "PWA Demo",
+    "short_name": "PWA_Demo",
+    "description": "PWA Demo Application.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#007bff",
+    "icons": [
+      {
+        "src": "/assets/icons/ico-32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      {
+        "src": "/assets/icons/ico-120.png",
+        "sizes": "120x120",
+        "type": "image/png"
+      },
+      {
+        "src": "/assets/icons/ico-144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      }
+    ],
+    "scope": "/",
+    "orientation": "portrait",
+    "lang": "en",
+    "dir": "ltr"
+  }
